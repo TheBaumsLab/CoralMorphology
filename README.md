@@ -52,19 +52,11 @@ pip install pymeshlab
 
 ## Example data
 
-PLY meshes derived from structured-light scanner and from photogrammetry are available at [this link](https://cloud.uol.de/s/7N24Lws87YyQLCb) for a trial run of the pipeline. Running the computational pipeline on these meshes produces the example outputs in `example/output_example/`.
+PLY meshes derived from structured-light scanner and from photogrammetry are available at [this link](https://cloud.uol.de/s/7N24Lws87YyQLCb) for a trial run of the pipeline. Running the computational pipeline on these meshes produces the example outputs in `example/`.
 
 ## Citations
 
-- Zawada KJA, Dornelas M, Madin JS (2019) Quantifying coral morphology. Coral Reefs 38(6):1281–1292. https://doi.org/10.1007/s00338-019-01842-4
-- Guendulain-García SD, Lopez-Beltran A, Banaszak AT, Álvarez-Filip L, Ramírez-Chávez E, García-Medrano D, Sellares-Blasco R, López-Pérez A (2023) Photogrammetry for coral structural complexity: What is beyond sight? Coral Reefs 42(3):635–644. https://doi.org/10.1007/s00338-023-02368-6
-- Guendulain-García SD, Banaszak AT, Álvarez-Filip L, Quattrini AM, López-Pérez A (2024) Three-dimensional morphological variation and physical functionality of Caribbean corals. Coral Reefs 43(2):405–413. https://doi.org/10.1007/s00338-024-02472-1
-- Million WC, Kenkel C (2020a) Image capture and pre-filtering for 3D photogrammetry of coral colonies. protocols.io. https://doi.org/10.17504/protocols.io.bgdcjs2w
-- Million WC, Kenkel C (2020b) Phenotyping 3D coral models in MeshLab. protocols.io. https://doi.org/10.17504/protocols.io.bgbpjsmn
-- Cignoni P, Callieri M, Corsini M, Dellepiane M, Ganovelli F, Ranzuglia G (2008) MeshLab: an Open-Source Mesh Processing Tool. Eurographics Italian Chapter Conference, 129–136.
-- Muntoni A, Cignoni P (2021) PyMeshLab. Zenodo. [confirm exact version DOI from the PyMeshLab Zenodo record before publishing]
-- Schlager S (2017) Morpho and Rvcg – Shape Analysis in R. In: Statistical Shape and Deformation Analysis, Academic Press, 217–256. https://doi.org/10.1016/B978-0-12-810493-4.00011-0
-- Barber CB, Dobkin DP, Huhdanpaa H (1996) The Quickhull Algorithm for Convex Hulls. ACM Transactions on Mathematical Software 22(4):469–483.
+Martinez Rugerio, M. I., Gomez-Campo, K., Eichhorn, N., Williams, E., Kelly, J., O’Neil, K. L., & Baums, I. (2026). Morphological phenotyping of live corals using 3D optical scanning (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24012515
 
 ## License
 
